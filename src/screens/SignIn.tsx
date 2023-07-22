@@ -14,7 +14,6 @@ export function SignIn() {
         navigation.navigate('signUp')
     }
 
-
     return (
         <ScrollView contentContainerStyle={{ flexGrow: 1 }} showsVerticalScrollIndicator={false}>
             <VStack flex={1} px={10} pb={16}>
