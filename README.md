@@ -1,11 +1,11 @@
-<div align="right">
+<!-- <div align="right">
 
 <a href="./README.md" alt="Translate to English">Translate English</a>
 
-</div>
+</div> -->
 
 <p align="center">
-  <img width="200px" alt="Projeto IgniteGym" title="Projeto IgniteGym" src="./mobile/src/assets/series.svg" />
+  <img width="200px" alt="Projeto IgniteGym" title="Projeto IgniteGym" src="./src/assets/series.svg" />
 
   <h1 align="center">IgniteGym</h1>
 
@@ -49,16 +49,16 @@ Essas telas proporcionam uma experiência abrangente para os usuários do aplica
 ## 🧭 Índice
 
 - [🧭 Índice](#-índice)
-- [🎥 Vídeo de Implementação](#-vídeo-de-implementação)
+<!-- - [🎥 Vídeo de Implementação](#-vídeo-de-implementação) -->
 - [🎨 Layout](#-layout)
 - [👏 Aprendizado e Mais Implementações](#-aprendizado-e-mais-implementações)
 - [💡 Tecnologias Utilizadas](#-tecnologias-utilizadas)
   - [Mobile](#mobile)
 - [📂 Estrutura de Pastas](#-estrutura-de-pastas)
 - [🚀 Executando o Projeto](#-executando-o-projeto)
-  - [Back-end](#back-end)
+  <!-- - [Back-end](#back-end) -->
   - [Mobile](#mobile-1)
-- [🌎 Licença](#-licença)
+<!-- - [🌎 Licença](#-licença) -->
 - [✒ Autor](#-autor)
 
 <!-- ## 🎥 Vídeo de Implementação
@@ -126,7 +126,7 @@ mobile
 
 ## 🚀 Executando o Projeto
 
-### Back-end
+<!-- ### Back-end
 
 Clone o projeto
 
@@ -152,7 +152,7 @@ Inicie o servidor
   npm run dev
 ```
 
-Acesse o arquivo README.md na pasta do servidor para ver outros comandos.
+Acesse o arquivo README.md na pasta do servidor para ver outros comandos. -->
 
 <!-- ### Front-end Web
 
@@ -191,7 +191,7 @@ Clone o projeto
 Acesse o diretório do projeto
 
 ```bash
-  cd igniteGym\mobile
+  cd igniteGym
 ```
 
 Instale as dependências
